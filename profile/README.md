@@ -1,30 +1,23 @@
-# Legacy & Historical Projects Archive
+# Legacy Projects
 
-Curated historical archive of exploratory prototypes, early learning exercises, and inactive codebases maintained by [Marco Vásquez Beltrán](https://github.com/mavasbel).
+Earlier personal projects, prototypes, and learning exercises by [Marco Vásquez Beltrán](https://github.com/mavasbel), kept for reference. None are under active development.
 
-[![Archive Status](https://img.shields.io/badge/Status-Historical_Archive-64748b?style=flat-square)](#)
-[![Timeline](https://img.shields.io/badge/Period-2021--2022-475569?style=flat-square)](#)
-
----
-
-### 📦 Public Historical Repositories
-
-| Repository | Tech Stack | Type | Description |
-|---|---|---|---|
-| [**scikit-playground**](https://github.com/mavasbel-legacy/scikit-playground) | Python, Scikit-Learn | Exploration (2021) | Linear and quadratic discriminant analysis (LDA/QDA) comparison exercise. |
-| [**spring-boot-standalone**](https://github.com/mavasbel-legacy/spring-boot-standalone) | Java 11, Spring Boot, JUnit | Algorithm Practice (2022) | Standalone implementations of sorting algorithms, data structures, and multithreading exercises. |
+[![Status](https://img.shields.io/badge/Status-Archive-6e7781?style=flat-square)](https://github.com/mavasbel-legacy)
+[![Period](https://img.shields.io/badge/Period-2021%E2%80%932022-6e7781?style=flat-square)](https://github.com/mavasbel-legacy)
 
 ---
 
-### 🗄️ Private Historical Archives
+### 🌍 Public
 
-The following early prototypes and templates are preserved privately for reference:
+| Repository | Year | Description | Stack |
+|:---|:---:|:---|:---|
+| [**spring-boot-standalone**](https://github.com/mavasbel-legacy/spring-boot-standalone) | 2021 | Standalone Spring Boot template with sorting algorithms, data structures, and threading exercises, plus JUnit tests | Java 16, Spring Boot 2.5, Maven |
+| [**scikit-playground**](https://github.com/mavasbel-legacy/scikit-playground) | 2021 | Linear and quadratic discriminant analysis example | Python, scikit-learn |
 
-* **`know-u`:** Angular 11 questionnaire and user interaction prototype (2021).
-* **`haskell-env`:** Containerized Haskell development environment sandbox (2021).
-* **`nx_react_app`:** Monorepo template with React, NestJS, Cypress E2E, and Jest (Archived 2022).
+### 🔒 Private
 
----
-
-> [!NOTE]
-> Repositories in this organization are preserved for historical reference and provenance. They are not under active feature development.
+| Repository | Year | Description | Stack |
+|:---|:---:|:---|:---|
+| `know-u` | 2021 | Front-end prototype for a questions app | Angular 11, Angular Material |
+| `haskell-env` | 2021 | Docker image for a Haskell toolchain installed with GHCup | Docker, Debian |
+| `nx_react_app` | 2022 | Nx monorepo template with a React front end and a NestJS back end (archived) | Nx 14, React, NestJS 9, MUI |
