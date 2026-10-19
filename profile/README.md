@@ -20,9 +20,9 @@ Curated historical archive of exploratory prototypes, early learning exercises, 
 
 The following early prototypes and templates are preserved privately for reference:
 
-* **:** Angular 11 questionnaire and user interaction prototype (2021).
-* **:** Containerized Haskell development environment sandbox (2021).
-* **:** Monorepo template with React, NestJS, Cypress E2E, and Jest (Archived 2022).
+* **`know-u`:** Angular 11 questionnaire and user interaction prototype (2021).
+* **`haskell-env`:** Containerized Haskell development environment sandbox (2021).
+* **`nx_react_app`:** Monorepo template with React, NestJS, Cypress E2E, and Jest (Archived 2022).
 
 ---
 
